@@ -21,17 +21,17 @@
     "API_ID": {
       "description": "ضع ايبي ايدي احصل علية من my.telegram.org/apps.",
       "required": true,
-      "value": "25281175"
+      "value": "21793031"
     },
     "API_HASH": {
       "description": "ضع ايبي هاش احصل علية من my.telegram.org/apps.",
       "required": true,
-      "value": "6d99cb2b60a2c519fc1f99bd19565730"
+      "value": "52e91180e35e6d91898764b43c567493"
     },
     "OWNER_ID": {
       "description": "ضع ايدي مالك البوت",
       "required": true,
-      "value": "65818963067"
+      "value": "6094482545"
     },
     "MONGO_DB_URI": {
       "description": "ضع كود مونجو احصل علية من cloud.mongodb.com",
@@ -41,7 +41,7 @@
     "MUST_JOIN": {
       "description": "ضع يوزر جروب للبوت.(without @)",
       "required": true,
-      "value": "one_1_X_bet"
+      "value": "Ve_No_m_S"
     },
     "BOT_TOKEN": {
       "description": "ارسل توكن البوت احصل علية من @BotFather",
